@@ -8,7 +8,7 @@
 <p>Since then, I'm focusing on absorve all the knowedge that I can and develop small projects to create my own portifolio and, one day, finally get my first job.</p>
 
 ### :computer: Projects
-My projects can be seen here in Github or in my web portifolio at: <span style="color: rgb(66, 133, 129)">[mayconrr](https://mayconrr.vercel.app)</span>
+My projects can be seen here in Github or in my web portfolio at: <span style="color: rgb(66, 133, 129)">[mayconrr](https://mayconrr.vercel.app)</span>
 
 ### :star: Skills
 Technologies that I'm familiar with: HTML, CSS, JS, Sass, Git, ReactJS, NextJS.
